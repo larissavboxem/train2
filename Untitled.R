@@ -4,3 +4,5 @@ v <- c(1,2,3,4,5)
 c <- 36*7
 
 summary(cars)
+
+#I dont know what to do right now so im just typing
